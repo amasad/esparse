@@ -1,8 +1,8 @@
 package main
 
 import (
-	"esparse/logging"
-	"esparse/parser"
+	"github.com/amasad/esparse/logging"
+	"github.com/amasad/esparse/parser"
 	"fmt"  
 )
 

@@ -14,8 +14,8 @@ package lexer
 // accurately.
 
 import (
-	"esparse/ast"
-	"esparse/logging"
+	"github.com/amasad/esparse/ast"
+	"github.com/amasad/esparse/logging"
 	"fmt"
 	"strconv"
 	"strings"

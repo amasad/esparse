@@ -1,9 +1,9 @@
 package parser
 
 import (
-	"esparse/ast"
-	"esparse/lexer"
-	"esparse/logging"
+	"github.com/amasad/esparse/ast"
+	"github.com/amasad/esparse/lexer"
+	"github.com/amasad/esparse/logging"
 	"fmt"
 	"math"
 	"reflect"

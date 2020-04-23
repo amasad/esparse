@@ -6,7 +6,7 @@ package logging
 // default.
 
 import (
-	"esparse/ast"
+	"github.com/amasad/esparse/ast"
 	"fmt"
 	"os"
 	"os/exec"
